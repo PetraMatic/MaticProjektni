@@ -1,0 +1,58 @@
+/* CSS Document */
+	p {
+		color: lightskyblue;
+		font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+		font-size: 18px; 
+		line-height: 20px;
+		width: 800px;
+		background-color: midnightblue;
+		padding: 20px;
+		margin: 10px;
+	}
+	.razmak {
+		margin: 10px;
+	}
+	.novi_blok {
+		background-color: rgba(255, 255, 255, 0.5);
+		padding: 20px;
+		margin: 10px;
+		width: 60%;
+	}
+	h1, h2, h3 {
+		font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+		color: lightskyblue;
+		margin: 10px;
+		}
+	body {
+		background-image: url("Slike1/Pozadina1.jpg")
+	}
+	a {
+		color: lightskyblue;
+		background-color: midnightblue;
+		padding: 10px;
+		line-height: 40px;
+		margin: 10px;
+	}
+	img {
+		height: 300px;
+	}
+	video {
+		height: 400px;
+		width: 500px;
+	}
+	.navbar {
+    list-style-type: none;
+	padding: 0;
+    margin: 0;
+    position: inline;
+    top: 1em;
+    left: 1em;
+    width: 9em ;
+	}
+	@font-face {
+	font-family: "Font";
+	src: url("Slike1/Petra_Matic_projektni_zadatak1.ttf");
+	}
+	.mojfont {
+	font-family: "Font"
+	}
